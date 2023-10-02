@@ -9,3 +9,9 @@ p {
     color: rgb(rgb(0, 195, 255), green, blue);
     font-size: 40px;
 }
+
+a {
+    text-decoration: none;
+    font-size: 26px;
+    font-family: calibri;
+}
