@@ -1,0 +1,11 @@
+h1 {
+    font-family: calibri;
+    color: rgb(rgba(255, 0, 0, 0.829), #008000, hsl(240, 100%, 50%));
+    font-size: 36px;
+}
+
+p {
+    font-family: calibri;
+    color: rgb(rgb(0, 195, 255), green, blue);
+    font-size: 40px;
+}
